@@ -28,7 +28,7 @@ Registeration Number :212221040168
 */
 ```
 #ACTIVITY_MAIN.XML
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -74,9 +74,10 @@ Registeration Number :212221040168
         app:layout_constraintVertical_bias="0.757" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 #ACTIVITYMAIN.JAVA
-
+```
 package com.example.gui_components;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -126,6 +127,7 @@ public class MainActivity extends AppCompatActivity {
 
 }
 }
+```
 
 ## OUTPUT
 ![image](https://github.com/lakshman1206/GUI-components/assets/129931784/8870e353-2fac-40b0-a036-cbb81dfb3a8b)
